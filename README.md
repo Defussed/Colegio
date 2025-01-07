@@ -1,4 +1,4 @@
-# College-Website
+# Colegio
 
 ## Features
 
