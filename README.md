@@ -18,7 +18,7 @@ Si tiene algún comentario, comuníquese conmigo lorenzonamucheflores@gmail.com
 
 ## Authors
 
-- [@Ozwer](https://github.com/Ozwer)
+- [@Defussed](https://github.com/Defussed)
 
 
 
